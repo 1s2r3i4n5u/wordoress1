@@ -32,4 +32,5 @@ services:
 volumes:
   wordpress:
   db:
+  docker-compose up -d
      
